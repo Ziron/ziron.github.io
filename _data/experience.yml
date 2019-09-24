@@ -1,8 +1,18 @@
 - layout: left
+  company: Shapeline AB
+  link: shapeline.com
+  job_title: Development Engineer
+  dates: December 2014 - Present
+  quote: >
+   Shapeline is dedicated to optical flatness measurement in the world’s flat metal industry. With over 15 years of experience from flatness measurement in the steel and metal industry we are truly dedicated to providing high performing systems, further reinforcing our position as the market leader in flatness.
+  description: | # this will include new lines to allow paragraphs
+   
+
+- layout: left
   company: FIA Robotics association
   link: http://fiarobotics.se
-  job_title: Co-Founder, committee member
-  dates: 2012 - Present
+  job_title: Co-Founder, board member
+  dates: Autumn 2012 - Present
   quote: >
    
   description: | # this will include new lines to allow paragraphs
@@ -11,19 +21,9 @@
 - layout: left
   company: Admittansen Electronics association
   link: admittansen.se
-  job_title: Committee member
-  dates: 2013 - Present
+  job_title: Board member
+  dates: Spring 2013 - Present
   quote: >
    Every machine is a smoke machine if you operate it wrong enough.
   description: | # this will include new lines to allow paragraphs
-    
-    
-- layout: left
-  company: Shapeline AB
-  link: shapeline.com
-  job_title: Development Engineer
-  dates: December 2014 - Present
-  quote: >
-   Shapeline is dedicated to optical flatness measurement in the world’s flat metal industry. With over 15 years of experience from flatness measurement in the steel and metal industry we are truly dedicated to providing high performing systems, further reinforcing our position as the market leader in flatness.
-  description: | # this will include new lines to allow paragraphs
-    
+
